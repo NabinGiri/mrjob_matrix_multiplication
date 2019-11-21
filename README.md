@@ -5,4 +5,4 @@ The program takes two input : matrix_A and matrix_B.
 It computes matrix multiplication between two matrices using map reduce framework.
 
 running the program:
-python matrix_multiplication matrix_A.txt matrix_B.txt
+python matrix_multiplication.py matrix_A.txt matrix_B.txt
